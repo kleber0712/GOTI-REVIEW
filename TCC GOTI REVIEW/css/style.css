@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height:1.8;
+    background-color: #000000;
+}
+h2{
+background-color: rgb(14, 159, 179);
+
+}
+h1{
+    background-color: rgb(39, 133, 170);
+}
